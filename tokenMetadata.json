@@ -2,5 +2,5 @@
   "name": "My Awesome Token",
   "symbol": "MAT",
   "description": "A custom token on Solana devnet",
-  "image": "https://github.com/pakicoder/solanalogo-/logo.png"
+  "image": "https://raw.githubusercontent.com/pakicoder/solanalogo-/main/logo.png"
 }
